@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik.mdb
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe.config
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.pdb
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.Form1.resources
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.Properties.Resources.resources
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.exe
+C:\Users\asus\source\repos\Kitaplik_Projesi\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.pdb
